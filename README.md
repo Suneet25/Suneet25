@@ -69,7 +69,7 @@
 ---
 
 <p display="flex" align="center">
-<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suneet25&hide=smalltalk&theme=algolia&layout=compact" width="400" />
+<img alt="Suneet25's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suneet25&hide=smalltalk&theme=algolia&layout=compact" width="400" />
 
   <a href="https://github.com/Suneet25?tab=repositories">
     <img width="400" height="auto"  alt="Suneet's github stats" 
